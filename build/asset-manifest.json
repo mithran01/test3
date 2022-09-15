@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ddc41a79.css",
+    "main.js": "/static/js/main.09c95d33.js",
+    "static/js/498.f55d5543.chunk.js": "/static/js/498.f55d5543.chunk.js",
+    "static/js/703.ac859ed9.chunk.js": "/static/js/703.ac859ed9.chunk.js",
+    "static/js/760.bd242a42.chunk.js": "/static/js/760.bd242a42.chunk.js",
+    "static/media/portal_access.png": "/static/media/portal_access.4033565eb9031538fa2c.png",
+    "static/media/login_slide_2.png": "/static/media/login_slide_2.693ed7be45711a8e09cc.png",
+    "static/media/login.png": "/static/media/login.0792c844539608c52098.png",
+    "static/media/no_appt_image.png": "/static/media/no_appt_image.20b864900342d749fad7.png",
+    "static/media/card_background.png": "/static/media/card_background.1cfa5934b10d0fbcc5bc.png",
+    "static/media/SignUp.png": "/static/media/SignUp.68a72538e3b0c33a5b10.png",
+    "static/media/login_slide.png": "/static/media/login_slide.d2132aa25f71cea4b305.png",
+    "static/media/Empty_Data.png": "/static/media/Empty_Data.bf39eb767ceda68bec31.png",
+    "static/media/password_setup_icon.png": "/static/media/password_setup_icon.8b50112c4e522d792503.png",
+    "static/media/email_check_icon.png": "/static/media/email_check_icon.fe580bbf457c1f48d473.png",
+    "static/media/login_slide_3.png": "/static/media/login_slide_3.9162f8ccf77e8f4ae443.png",
+    "static/media/saved_successfully.png": "/static/media/saved_successfully.a4abde0ea83ef42ff6f4.png",
+    "index.html": "/index.html",
+    "main.ddc41a79.css.map": "/static/css/main.ddc41a79.css.map",
+    "main.09c95d33.js.map": "/static/js/main.09c95d33.js.map",
+    "498.f55d5543.chunk.js.map": "/static/js/498.f55d5543.chunk.js.map",
+    "703.ac859ed9.chunk.js.map": "/static/js/703.ac859ed9.chunk.js.map",
+    "760.bd242a42.chunk.js.map": "/static/js/760.bd242a42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddc41a79.css",
+    "static/js/main.09c95d33.js"
+  ]
+}
